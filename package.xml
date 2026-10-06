@@ -4,11 +4,11 @@
   <version>0.4.0</version>
   <description>Helpfull Xacro macroses for URDF</description>
 
-  <maintainer email="standmit@zabstrannik.ru">Andrey Stepanov (standmit)</maintainer>
+  <maintainer email="standmit@yandex.ru">Andrey Stepanov</maintainer>
 
   <license>MIT</license>
 
-  <author email="standmit@zabstrannik.ru">Andrey Stepanov (standmit)</author>
+  <author email="standmit@yandex.ru">Andrey Stepanov</author>
 
   <buildtool_depend>catkin</buildtool_depend>
   <exec_depend>urdf</exec_depend>
